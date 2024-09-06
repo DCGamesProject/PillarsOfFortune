@@ -1,0 +1,51 @@
+LEADERBOARDS:
+  TITLE: '&7Leaderboards'
+  SLOT: 27
+  ELO:
+    TITLE: "&6Elo"
+    SLOT: 10
+    MATERIAL: ENCHANTED_BOOK
+    LORE:
+      - '&8Leaderboard'
+      - ''
+      - '<top>'
+  WINS:
+    TITLE: "&6Wins"
+    SLOT: 12
+    MATERIAL: NETHER_STAR
+    LORE:
+      - '&8Leaderboard'
+      - ''
+      - '<top>'
+  KILLS:
+    TITLE: "&6Kills"
+    SLOT: 14
+    MATERIAL: SKULL_ITEM
+    LORE:
+      - '&8Leaderboard'
+      - ''
+      - '<top>'
+  PLAYED:
+    TITLE: "&6Played"
+    SLOT: 16
+    MATERIAL: BED
+    LORE:
+      - '&8Leaderboard'
+      - ''
+      - '<top>'
+STATS:
+  TITLE: "&7<player>'s İstatistikleri"
+  ITEM-TITLE: "&6Stats"
+  SLOT: 27
+  MATERIAL: APPLE
+  ITEM-SLOT: 13
+  LORE:
+    - '&8İstatistikler'
+    - ''
+    - '&fKazanmalar: &6<wins>'
+    - '&fOynanan Oyun: &6<played>'
+    - ''
+    - '&fÖldürmeler: &6<kills>'
+    - '&fEn çok alınan öldürme: &6<killstreak>'
+    - '&fÖlümler: &6<deaths>'
+    - ''

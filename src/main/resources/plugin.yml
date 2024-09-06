@@ -1,0 +1,5 @@
+name: Fortune
+author: Venslore
+main: com.dcgames.pillars.Fortune
+version: '${project.version}'
+api-version: '1.16'

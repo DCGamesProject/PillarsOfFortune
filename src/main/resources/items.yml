@@ -1,0 +1,45 @@
+# Don't forget to enable mongodb mode from config.yml for this item.
+LEADERBOARDS:
+  NAME: "&7» &eLeaderboards &7»"
+  MATERIAL: EMERALD
+  SLOT: 4
+  LORE:
+    - '&fSkor tablolarını görmek için buna tıklayın.'
+STATS:
+  NAME: "&7» &eİstatistikler&7»"
+  MATERIAL: PAPER
+  SLOT: 8
+  LORE:
+    - '&fİstatistiklerinizi görmek için buna tıklayın.'
+SELECTOR:
+  NAME: "&7» &eSelector&7»"
+  MATERIAL: COMPASS
+  SLOT: 4
+  LORE:
+    - '&fClick to open for select game and map mode.'
+# Don't forget to enable bungeecord mode from config.yml for this item.
+LEAVE:
+  NAME: "&7» &eLobiye Dön &7»"
+  MATERIAL: REDSTONE
+  SLOT: 7
+  LORE:
+    - '&fLobiye dönmek için tıklayın.'
+# Spectator Items
+SPECTATE-MENU:
+  NAME: "&7» &eİzleyici Menüsü &7»"
+  MATERIAL: ITEM_FRAME
+  SLOT: 0
+  LORE:
+    - '&fYaşayan oyuncuları görmek için buna tıklayın.'
+RANDOM-TELEPORT:
+  NAME: "&7» &eRastgele Işınlanma &7»"
+  MATERIAL: DIAMOND
+  SLOT: 1
+  LORE:
+    - '&fCanlı oyunculara ışınlanmak için buna tıklayın.'
+BETTER-VIEW:
+  NAME: "&7» &eBetter View&7»"
+  MATERIAL: BLUE_CARPET
+  SLOT: 8
+  LORE:
+    - ''
